@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+.venvGeometry/
+.tiles/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+
