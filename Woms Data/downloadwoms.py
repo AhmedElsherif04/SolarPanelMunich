@@ -6,13 +6,18 @@ from pyproj import Transformer
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
+#for Solar Potential Munich
 wms_url = "https://geoportal.muenchen.de/geoserver/gsm/Solarpotenzial_Globalstrahlung_p_02/wms"
 layer_name = "Solarpotenzial_Globalstrahlung_p_02"
-output_dir = "tiles"
+output_dir = "tiles_solar_munich"
 merged_tif = "solar_munich.tif"
-wms_url = "https://geoportal.muenchen.de/geoserver/plan/g_fnp/ows"
-layer_name = "g_fnp"
-merged_tif = "fnp_munich.tif"
+
+#for FNP Munich
+# wms_url = "https://geoportal.muenchen.de/geoserver/plan/g_fnp/ows"
+# layer_name = "g_fnp"
+# merged_tif = "fnp_munich.tif"
+# output_dir = "tiles_fnp_munich"
+
 
 
 # Bounding box in EPSG:4326 (lon, lat)

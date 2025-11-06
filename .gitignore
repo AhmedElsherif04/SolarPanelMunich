@@ -1,6 +1,7 @@
 # Ignore Python virtual environment
 .venvGeometry/
-tiles/
+tiles_solar_munich/
+tiles_fnp_munich/
 
 # Ignore Python cache files
 __pycache__/
