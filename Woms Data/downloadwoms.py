@@ -10,6 +10,10 @@ wms_url = "https://geoportal.muenchen.de/geoserver/gsm/Solarpotenzial_Globalstra
 layer_name = "Solarpotenzial_Globalstrahlung_p_02"
 output_dir = "tiles"
 merged_tif = "solar_munich.tif"
+wms_url = "https://geoportal.muenchen.de/geoserver/plan/g_fnp/ows"
+layer_name = "g_fnp"
+merged_tif = "fnp_munich.tif"
+
 
 # Bounding box in EPSG:4326 (lon, lat)
 bbox_4326 = [11.54, 48.11, 11.57, 48.14]
