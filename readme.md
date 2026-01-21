@@ -20,7 +20,7 @@ District-level demographic indicators:
 
 - Stand-Alone Houses  
 - Average Population Age  
-- Overall Population  
+- Overall Population
 - Young Population  
 - Senior Population  
 - Unemployment Rate  

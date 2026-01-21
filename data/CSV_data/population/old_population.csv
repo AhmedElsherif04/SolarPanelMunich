@@ -1,0 +1,651 @@
+Year,Location,Population,District
+2024,Stadt München,272079.0,00
+2024,Altstadt - Lehel,3346.0,01
+2024,Ludwigsvorstadt - Isarvorstadt,6068.0,02
+2024,Maxvorstadt,6317.0,03
+2024,Schwabing - West,11498.0,04
+2024,Au - Haidhausen,9253.0,05
+2024,Sendling,6091.0,06
+2024,Sendling - Westpark,10898.0,07
+2024,Schwanthalerhöhe,3752.0,08
+2024,Neuhausen - Nymphenburg,17128.0,09
+2024,Moosach,10013.0,10
+2024,Milbertshofen - Am Hart,11791.0,11
+2024,Schwabing - Freimann,12330.0,12
+2024,Bogenhausen,18288.0,13
+2024,Berg am Laim,7973.0,14
+2024,Trudering - Riem,12201.0,15
+2024,Ramersdorf - Perlach,23394.0,16
+2024,Obergiesing - Fasangarten,8351.0,17
+2024,Untergiesing - Harlaching,10196.0,18
+2024,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19864.0,19
+2024,Hadern,10752.0,20
+2024,Pasing - Obermenzing,15043.0,21
+2024,Aubing - Lochhausen - Langwied,9428.0,22
+2024,Allach - Untermenzing,6371.0,23
+2024,Feldmoching - Hasenbergl,11321.0,24
+2024,Laim,10412.0,25
+2023,Stadt München,269881.0,00
+2023,Altstadt - Lehel,3339.0,01
+2023,Ludwigsvorstadt - Isarvorstadt,5924.0,02
+2023,Maxvorstadt,6323.0,03
+2023,Schwabing - West,11494.0,04
+2023,Au - Haidhausen,9101.0,05
+2023,Sendling,5992.0,06
+2023,Sendling - Westpark,10893.0,07
+2023,Schwanthalerhöhe,3691.0,08
+2023,Neuhausen - Nymphenburg,16906.0,09
+2023,Moosach,9931.0,10
+2023,Milbertshofen - Am Hart,11667.0,11
+2023,Schwabing - Freimann,12189.0,12
+2023,Bogenhausen,18127.0,13
+2023,Berg am Laim,7898.0,14
+2023,Trudering - Riem,12009.0,15
+2023,Ramersdorf - Perlach,23222.0,16
+2023,Obergiesing - Fasangarten,8281.0,17
+2023,Untergiesing - Harlaching,10105.0,18
+2023,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19828.0,19
+2023,Hadern,10754.0,20
+2023,Pasing - Obermenzing,14900.0,21
+2023,Aubing - Lochhausen - Langwied,9351.0,22
+2023,Allach - Untermenzing,6296.0,23
+2023,Feldmoching - Hasenbergl,11328.0,24
+2023,Laim,10332.0,25
+2022,Stadt München,268729.0,00
+2022,Altstadt - Lehel,3340.0,01
+2022,Ludwigsvorstadt - Isarvorstadt,5924.0,02
+2022,Maxvorstadt,6317.0,03
+2022,Schwabing - West,11529.0,04
+2022,Au - Haidhausen,9033.0,05
+2022,Sendling,5922.0,06
+2022,Sendling - Westpark,10776.0,07
+2022,Schwanthalerhöhe,3648.0,08
+2022,Neuhausen - Nymphenburg,16807.0,09
+2022,Moosach,9906.0,10
+2022,Milbertshofen - Am Hart,11624.0,11
+2022,Schwabing - Freimann,12086.0,12
+2022,Bogenhausen,18080.0,13
+2022,Berg am Laim,7849.0,14
+2022,Trudering - Riem,11861.0,15
+2022,Ramersdorf - Perlach,23143.0,16
+2022,Obergiesing - Fasangarten,8193.0,17
+2022,Untergiesing - Harlaching,10087.0,18
+2022,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19919.0,19
+2022,Hadern,10727.0,20
+2022,Pasing - Obermenzing,14852.0,21
+2022,Aubing - Lochhausen - Langwied,9246.0,22
+2022,Allach - Untermenzing,6283.0,23
+2022,Feldmoching - Hasenbergl,11237.0,24
+2022,Laim,10340.0,25
+2021,Stadt München,267692.0,00
+2021,Altstadt - Lehel,3359.0,01
+2021,Ludwigsvorstadt - Isarvorstadt,5911.0,02
+2021,Maxvorstadt,6209.0,03
+2021,Schwabing - West,11510.0,04
+2021,Au - Haidhausen,8870.0,05
+2021,Sendling,5935.0,06
+2021,Sendling - Westpark,10775.0,07
+2021,Schwanthalerhöhe,3655.0,08
+2021,Neuhausen - Nymphenburg,16733.0,09
+2021,Moosach,9863.0,10
+2021,Milbertshofen - Am Hart,11617.0,11
+2021,Schwabing - Freimann,11970.0,12
+2021,Bogenhausen,18034.0,13
+2021,Berg am Laim,7833.0,14
+2021,Trudering - Riem,11622.0,15
+2021,Ramersdorf - Perlach,23091.0,16
+2021,Obergiesing - Fasangarten,8159.0,17
+2021,Untergiesing - Harlaching,10030.0,18
+2021,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19930.0,19
+2021,Hadern,10792.0,20
+2021,Pasing - Obermenzing,14705.0,21
+2021,Aubing - Lochhausen - Langwied,9221.0,22
+2021,Allach - Untermenzing,6260.0,23
+2021,Feldmoching - Hasenbergl,11231.0,24
+2021,Laim,10377.0,25
+2020,Stadt München,268766.0,00
+2020,Altstadt - Lehel,3408.0,01
+2020,Ludwigsvorstadt - Isarvorstadt,5922.0,02
+2020,Maxvorstadt,6275.0,03
+2020,Schwabing - West,11606.0,04
+2020,Au - Haidhausen,8894.0,05
+2020,Sendling,5947.0,06
+2020,Sendling - Westpark,10829.0,07
+2020,Schwanthalerhöhe,3660.0,08
+2020,Neuhausen - Nymphenburg,16742.0,09
+2020,Moosach,9871.0,10
+2020,Milbertshofen - Am Hart,11750.0,11
+2020,Schwabing - Freimann,11935.0,12
+2020,Bogenhausen,18109.0,13
+2020,Berg am Laim,7868.0,14
+2020,Trudering - Riem,11577.0,15
+2020,Ramersdorf - Perlach,23161.0,16
+2020,Obergiesing - Fasangarten,8195.0,17
+2020,Untergiesing - Harlaching,10101.0,18
+2020,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20036.0,19
+2020,Hadern,10901.0,20
+2020,Pasing - Obermenzing,14631.0,21
+2020,Aubing - Lochhausen - Langwied,9174.0,22
+2020,Allach - Untermenzing,6244.0,23
+2020,Feldmoching - Hasenbergl,11300.0,24
+2020,Laim,10630.0,25
+2019,Stadt München,267622.0,00
+2019,Altstadt - Lehel,3437.0,01
+2019,Ludwigsvorstadt - Isarvorstadt,5857.0,02
+2019,Maxvorstadt,6261.0,03
+2019,Schwabing - West,11513.0,04
+2019,Au - Haidhausen,8788.0,05
+2019,Sendling,5867.0,06
+2019,Sendling - Westpark,10844.0,07
+2019,Schwanthalerhöhe,3616.0,08
+2019,Neuhausen - Nymphenburg,16640.0,09
+2019,Moosach,9807.0,10
+2019,Milbertshofen - Am Hart,11688.0,11
+2019,Schwabing - Freimann,11804.0,12
+2019,Bogenhausen,17949.0,13
+2019,Berg am Laim,7853.0,14
+2019,Trudering - Riem,11385.0,15
+2019,Ramersdorf - Perlach,23068.0,16
+2019,Obergiesing - Fasangarten,8175.0,17
+2019,Untergiesing - Harlaching,10145.0,18
+2019,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20147.0,19
+2019,Hadern,10918.0,20
+2019,Pasing - Obermenzing,14561.0,21
+2019,Aubing - Lochhausen - Langwied,9143.0,22
+2019,Allach - Untermenzing,6265.0,23
+2019,Feldmoching - Hasenbergl,11243.0,24
+2019,Laim,10648.0,25
+2018,Stadt München,266265.0,00
+2018,Altstadt - Lehel,3432.0,01
+2018,Ludwigsvorstadt - Isarvorstadt,5807.0,02
+2018,Maxvorstadt,6223.0,03
+2018,Schwabing - West,11507.0,04
+2018,Au - Haidhausen,8629.0,05
+2018,Sendling,5827.0,06
+2018,Sendling - Westpark,10800.0,07
+2018,Schwanthalerhöhe,3639.0,08
+2018,Neuhausen - Nymphenburg,16480.0,09
+2018,Moosach,9834.0,10
+2018,Milbertshofen - Am Hart,11605.0,11
+2018,Schwabing - Freimann,11610.0,12
+2018,Bogenhausen,17848.0,13
+2018,Berg am Laim,7865.0,14
+2018,Trudering - Riem,11237.0,15
+2018,Ramersdorf - Perlach,22937.0,16
+2018,Obergiesing - Fasangarten,8172.0,17
+2018,Untergiesing - Harlaching,10160.0,18
+2018,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20185.0,19
+2018,Hadern,10913.0,20
+2018,Pasing - Obermenzing,14366.0,21
+2018,Aubing - Lochhausen - Langwied,9120.0,22
+2018,Allach - Untermenzing,6233.0,23
+2018,Feldmoching - Hasenbergl,11207.0,24
+2018,Laim,10629.0,25
+2017,Stadt München,265133.0,00
+2017,Altstadt - Lehel,3450.0,01
+2017,Ludwigsvorstadt - Isarvorstadt,5790.0,02
+2017,Maxvorstadt,6137.0,03
+2017,Schwabing - West,11439.0,04
+2017,Au - Haidhausen,8514.0,05
+2017,Sendling,5829.0,06
+2017,Sendling - Westpark,10795.0,07
+2017,Schwanthalerhöhe,3649.0,08
+2017,Neuhausen - Nymphenburg,16412.0,09
+2017,Moosach,9757.0,10
+2017,Milbertshofen - Am Hart,11597.0,11
+2017,Schwabing - Freimann,11471.0,12
+2017,Bogenhausen,17773.0,13
+2017,Berg am Laim,7865.0,14
+2017,Trudering - Riem,11079.0,15
+2017,Ramersdorf - Perlach,22811.0,16
+2017,Obergiesing - Fasangarten,8131.0,17
+2017,Untergiesing - Harlaching,10112.0,18
+2017,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20199.0,19
+2017,Hadern,10865.0,20
+2017,Pasing - Obermenzing,14315.0,21
+2017,Aubing - Lochhausen - Langwied,9068.0,22
+2017,Allach - Untermenzing,6167.0,23
+2017,Feldmoching - Hasenbergl,11263.0,24
+2017,Laim,10645.0,25
+2016,Stadt München,267302.0,00
+2016,Altstadt - Lehel,3539.0,01
+2016,Ludwigsvorstadt - Isarvorstadt,5991.0,02
+2016,Maxvorstadt,6313.0,03
+2016,Schwabing - West,11491.0,04
+2016,Au - Haidhausen,8627.0,05
+2016,Sendling,5936.0,06
+2016,Sendling - Westpark,10842.0,07
+2016,Schwanthalerhöhe,3722.0,08
+2016,Neuhausen - Nymphenburg,16518.0,09
+2016,Moosach,9776.0,10
+2016,Milbertshofen - Am Hart,11693.0,11
+2016,Schwabing - Freimann,11533.0,12
+2016,Bogenhausen,17816.0,13
+2016,Berg am Laim,7851.0,14
+2016,Trudering - Riem,10966.0,15
+2016,Ramersdorf - Perlach,22909.0,16
+2016,Obergiesing - Fasangarten,8294.0,17
+2016,Untergiesing - Harlaching,10287.0,18
+2016,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20340.0,19
+2016,Hadern,10989.0,20
+2016,Pasing - Obermenzing,14326.0,21
+2016,Aubing - Lochhausen - Langwied,9163.0,22
+2016,Allach - Untermenzing,6203.0,23
+2016,Feldmoching - Hasenbergl,11452.0,24
+2016,Laim,10725.0,25
+2015,Stadt München,265607.0,00
+2015,Altstadt - Lehel,3490.0,01
+2015,Ludwigsvorstadt - Isarvorstadt,5902.0,02
+2015,Maxvorstadt,6292.0,03
+2015,Schwabing - West,11403.0,04
+2015,Au - Haidhausen,8497.0,05
+2015,Sendling,5906.0,06
+2015,Sendling - Westpark,10758.0,07
+2015,Schwanthalerhöhe,3690.0,08
+2015,Neuhausen - Nymphenburg,16342.0,09
+2015,Moosach,9764.0,10
+2015,Milbertshofen - Am Hart,11629.0,11
+2015,Schwabing - Freimann,11329.0,12
+2015,Bogenhausen,17697.0,13
+2015,Berg am Laim,7719.0,14
+2015,Trudering - Riem,10873.0,15
+2015,Ramersdorf - Perlach,22704.0,16
+2015,Obergiesing - Fasangarten,8301.0,17
+2015,Untergiesing - Harlaching,10264.0,18
+2015,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20384.0,19
+2015,Hadern,10953.0,20
+2015,Pasing - Obermenzing,14175.0,21
+2015,Aubing - Lochhausen - Langwied,9132.0,22
+2015,Allach - Untermenzing,6211.0,23
+2015,Feldmoching - Hasenbergl,11472.0,24
+2015,Laim,10720.0,25
+2014,Stadt München,262599.0,00
+2014,Altstadt - Lehel,3424.0,01
+2014,Ludwigsvorstadt - Isarvorstadt,5767.0,02
+2014,Maxvorstadt,6232.0,03
+2014,Schwabing - West,11286.0,04
+2014,Au - Haidhausen,8484.0,05
+2014,Sendling,5792.0,06
+2014,Sendling - Westpark,10650.0,07
+2014,Schwanthalerhöhe,3622.0,08
+2014,Neuhausen - Nymphenburg,16080.0,09
+2014,Moosach,9653.0,10
+2014,Milbertshofen - Am Hart,11493.0,11
+2014,Schwabing - Freimann,11099.0,12
+2014,Bogenhausen,17473.0,13
+2014,Berg am Laim,7631.0,14
+2014,Trudering - Riem,10628.0,15
+2014,Ramersdorf - Perlach,22315.0,16
+2014,Obergiesing - Fasangarten,8271.0,17
+2014,Untergiesing - Harlaching,10226.0,18
+2014,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20180.0,19
+2014,Hadern,10935.0,20
+2014,Pasing - Obermenzing,14029.0,21
+2014,Aubing - Lochhausen - Langwied,9059.0,22
+2014,Allach - Untermenzing,6156.0,23
+2014,Feldmoching - Hasenbergl,11426.0,24
+2014,Laim,10688.0,25
+2013,Stadt München,258887.0,00
+2013,Altstadt - Lehel,3381.0,01
+2013,Ludwigsvorstadt - Isarvorstadt,5625.0,02
+2013,Maxvorstadt,6143.0,03
+2013,Schwabing - West,11157.0,04
+2013,Au - Haidhausen,8291.0,05
+2013,Sendling,5731.0,06
+2013,Sendling - Westpark,10567.0,07
+2013,Schwanthalerhöhe,3541.0,08
+2013,Neuhausen - Nymphenburg,15712.0,09
+2013,Moosach,9505.0,10
+2013,Milbertshofen - Am Hart,11343.0,11
+2013,Schwabing - Freimann,10939.0,12
+2013,Bogenhausen,17227.0,13
+2013,Berg am Laim,7531.0,14
+2013,Trudering - Riem,10344.0,15
+2013,Ramersdorf - Perlach,21921.0,16
+2013,Obergiesing - Fasangarten,8142.0,17
+2013,Untergiesing - Harlaching,10169.0,18
+2013,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,20056.0,19
+2013,Hadern,10818.0,20
+2013,Pasing - Obermenzing,13812.0,21
+2013,Aubing - Lochhausen - Langwied,8970.0,22
+2013,Allach - Untermenzing,6087.0,23
+2013,Feldmoching - Hasenbergl,11318.0,24
+2013,Laim,10557.0,25
+2012,Stadt München,254947.0,00
+2012,Altstadt - Lehel,3333.0,01
+2012,Ludwigsvorstadt - Isarvorstadt,5509.0,02
+2012,Maxvorstadt,6034.0,03
+2012,Schwabing - West,10953.0,04
+2012,Au - Haidhausen,8190.0,05
+2012,Sendling,5636.0,06
+2012,Sendling - Westpark,10497.0,07
+2012,Schwanthalerhöhe,3507.0,08
+2012,Neuhausen - Nymphenburg,15474.0,09
+2012,Moosach,9319.0,10
+2012,Milbertshofen - Am Hart,11164.0,11
+2012,Schwabing - Freimann,10726.0,12
+2012,Bogenhausen,16904.0,13
+2012,Berg am Laim,7430.0,14
+2012,Trudering - Riem,10106.0,15
+2012,Ramersdorf - Perlach,21533.0,16
+2012,Obergiesing - Fasangarten,8048.0,17
+2012,Untergiesing - Harlaching,10090.0,18
+2012,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19718.0,19
+2012,Hadern,10627.0,20
+2012,Pasing - Obermenzing,13608.0,21
+2012,Aubing - Lochhausen - Langwied,8817.0,22
+2012,Allach - Untermenzing,6037.0,23
+2012,Feldmoching - Hasenbergl,11263.0,24
+2012,Laim,10423.0,25
+2011,Stadt München,250354.0,00
+2011,Altstadt - Lehel,3308.0,01
+2011,Ludwigsvorstadt - Isarvorstadt,5407.0,02
+2011,Maxvorstadt,5970.0,03
+2011,Schwabing - West,10741.0,04
+2011,Au - Haidhausen,8027.0,05
+2011,Sendling,5558.0,06
+2011,Sendling - Westpark,10353.0,07
+2011,Schwanthalerhöhe,3400.0,08
+2011,Neuhausen - Nymphenburg,15130.0,09
+2011,Moosach,9112.0,10
+2011,Milbertshofen - Am Hart,10936.0,11
+2011,Schwabing - Freimann,10441.0,12
+2011,Bogenhausen,16431.0,13
+2011,Berg am Laim,7318.0,14
+2011,Trudering - Riem,9766.0,15
+2011,Ramersdorf - Perlach,20960.0,16
+2011,Obergiesing - Fasangarten,7936.0,17
+2011,Untergiesing - Harlaching,9993.0,18
+2011,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19555.0,19
+2011,Hadern,10489.0,20
+2011,Pasing - Obermenzing,13397.0,21
+2011,Aubing - Lochhausen - Langwied,8682.0,22
+2011,Allach - Untermenzing,5928.0,23
+2011,Feldmoching - Hasenbergl,11192.0,24
+2011,Laim,10324.0,25
+2010,Stadt München,246943.0,00
+2010,Altstadt - Lehel,3278.0,01
+2010,Ludwigsvorstadt - Isarvorstadt,5359.0,02
+2010,Maxvorstadt,5887.0,03
+2010,Schwabing - West,10596.0,04
+2010,Au - Haidhausen,7902.0,05
+2010,Sendling,5535.0,06
+2010,Sendling - Westpark,10289.0,07
+2010,Schwanthalerhöhe,3335.0,08
+2010,Neuhausen - Nymphenburg,14821.0,09
+2010,Moosach,8961.0,10
+2010,Milbertshofen - Am Hart,10759.0,11
+2010,Schwabing - Freimann,10194.0,12
+2010,Bogenhausen,16079.0,13
+2010,Berg am Laim,7244.0,14
+2010,Trudering - Riem,9506.0,15
+2010,Ramersdorf - Perlach,20545.0,16
+2010,Obergiesing - Fasangarten,7896.0,17
+2010,Untergiesing - Harlaching,9962.0,18
+2010,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19267.0,19
+2010,Hadern,10372.0,20
+2010,Pasing - Obermenzing,13160.0,21
+2010,Aubing - Lochhausen - Langwied,8586.0,22
+2010,Allach - Untermenzing,5896.0,23
+2010,Feldmoching - Hasenbergl,11162.0,24
+2010,Laim,10352.0,25
+2009,Stadt München,245260.0,00
+2009,Altstadt - Lehel,3285.0,01
+2009,Ludwigsvorstadt - Isarvorstadt,5281.0,02
+2009,Maxvorstadt,5873.0,03
+2009,Schwabing - West,10549.0,04
+2009,Au - Haidhausen,7886.0,05
+2009,Sendling,5547.0,06
+2009,Sendling - Westpark,10205.0,07
+2009,Schwanthalerhöhe,3345.0,08
+2009,Neuhausen - Nymphenburg,14776.0,09
+2009,Moosach,8932.0,10
+2009,Milbertshofen - Am Hart,10677.0,11
+2009,Schwabing - Freimann,10088.0,12
+2009,Bogenhausen,15787.0,13
+2009,Berg am Laim,7219.0,14
+2009,Trudering - Riem,9335.0,15
+2009,Ramersdorf - Perlach,20187.0,16
+2009,Obergiesing - Fasangarten,7940.0,17
+2009,Untergiesing - Harlaching,9994.0,18
+2009,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,19128.0,19
+2009,Hadern,10286.0,20
+2009,Pasing - Obermenzing,12995.0,21
+2009,Aubing - Lochhausen - Langwied,8583.0,22
+2009,Allach - Untermenzing,5854.0,23
+2009,Feldmoching - Hasenbergl,11143.0,24
+2009,Laim,10365.0,25
+2008,Stadt München,242950.0,00
+2008,Altstadt - Lehel,3276.0,01
+2008,Ludwigsvorstadt - Isarvorstadt,5379.0,02
+2008,Maxvorstadt,5894.0,03
+2008,Schwabing - West,10534.0,04
+2008,Au - Haidhausen,7975.0,05
+2008,Sendling,5518.0,06
+2008,Sendling - Westpark,10123.0,07
+2008,Schwanthalerhöhe,3350.0,08
+2008,Neuhausen - Nymphenburg,14745.0,09
+2008,Moosach,8817.0,10
+2008,Milbertshofen - Am Hart,10730.0,11
+2008,Schwabing - Freimann,9862.0,12
+2008,Bogenhausen,15362.0,13
+2008,Berg am Laim,7202.0,14
+2008,Trudering - Riem,9063.0,15
+2008,Ramersdorf - Perlach,19738.0,16
+2008,Obergiesing - Fasangarten,7935.0,17
+2008,Untergiesing - Harlaching,10045.0,18
+2008,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,18843.0,19
+2008,Hadern,10040.0,20
+2008,Pasing - Obermenzing,12763.0,21
+2008,Aubing - Lochhausen - Langwied,8464.0,22
+2008,Allach - Untermenzing,5814.0,23
+2008,Feldmoching - Hasenbergl,11129.0,24
+2008,Laim,10349.0,25
+2007,Stadt München,238041.0,00
+2007,Altstadt - Lehel,3236.0,01
+2007,Ludwigsvorstadt - Isarvorstadt,5348.0,02
+2007,Maxvorstadt,5773.0,03
+2007,Schwabing - West,10281.0,04
+2007,Au - Haidhausen,7867.0,05
+2007,Sendling,5431.0,06
+2007,Sendling - Westpark,9867.0,07
+2007,Schwanthalerhöhe,3333.0,08
+2007,Neuhausen - Nymphenburg,14589.0,09
+2007,Moosach,8660.0,10
+2007,Milbertshofen - Am Hart,10502.0,11
+2007,Schwabing - Freimann,9599.0,12
+2007,Bogenhausen,14814.0,13
+2007,Berg am Laim,7100.0,14
+2007,Trudering - Riem,8671.0,15
+2007,Ramersdorf - Perlach,19346.0,16
+2007,Obergiesing - Fasangarten,7834.0,17
+2007,Untergiesing - Harlaching,9935.0,18
+2007,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,18366.0,19
+2007,Hadern,9798.0,20
+2007,Pasing - Obermenzing,12347.0,21
+2007,Aubing - Lochhausen - Langwied,8293.0,22
+2007,Allach - Untermenzing,5715.0,23
+2007,Feldmoching - Hasenbergl,11081.0,24
+2007,Laim,10255.0,25
+2006,Stadt München,232910.0,00
+2006,Altstadt - Lehel,3154.0,01
+2006,Ludwigsvorstadt - Isarvorstadt,5329.0,02
+2006,Maxvorstadt,5680.0,03
+2006,Schwabing - West,9990.0,04
+2006,Au - Haidhausen,7809.0,05
+2006,Sendling,5342.0,06
+2006,Sendling - Westpark,9658.0,07
+2006,Schwanthalerhöhe,3227.0,08
+2006,Neuhausen - Nymphenburg,14494.0,09
+2006,Moosach,8476.0,10
+2006,Milbertshofen - Am Hart,10377.0,11
+2006,Schwabing - Freimann,9356.0,12
+2006,Bogenhausen,14287.0,13
+2006,Berg am Laim,6971.0,14
+2006,Trudering - Riem,8304.0,15
+2006,Ramersdorf - Perlach,18708.0,16
+2006,Obergiesing - Fasangarten,7774.0,17
+2006,Untergiesing - Harlaching,9796.0,18
+2006,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,17905.0,19
+2006,Hadern,9505.0,20
+2006,Pasing - Obermenzing,12045.0,21
+2006,Aubing - Lochhausen - Langwied,8065.0,22
+2006,Allach - Untermenzing,5607.0,23
+2006,Feldmoching - Hasenbergl,10869.0,24
+2006,Laim,10182.0,25
+2005,Stadt München,225289.0,00
+2005,Altstadt - Lehel,3036.0,01
+2005,Ludwigsvorstadt - Isarvorstadt,5229.0,02
+2005,Maxvorstadt,5596.0,03
+2005,Schwabing - West,9591.0,04
+2005,Au - Haidhausen,7704.0,05
+2005,Sendling,5169.0,06
+2005,Sendling - Westpark,9402.0,07
+2005,Schwanthalerhöhe,3166.0,08
+2005,Neuhausen - Nymphenburg,14360.0,09
+2005,Moosach,8207.0,10
+2005,Milbertshofen - Am Hart,10055.0,11
+2005,Schwabing - Freimann,9002.0,12
+2005,Bogenhausen,13487.0,13
+2005,Berg am Laim,6851.0,14
+2005,Trudering - Riem,7758.0,15
+2005,Ramersdorf - Perlach,17841.0,16
+2005,Obergiesing - Fasangarten,7619.0,17
+2005,Untergiesing - Harlaching,9572.0,18
+2005,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,17173.0,19
+2005,Hadern,9151.0,20
+2005,Pasing - Obermenzing,11610.0,21
+2005,Aubing - Lochhausen - Langwied,7723.0,22
+2005,Allach - Untermenzing,5433.0,23
+2005,Feldmoching - Hasenbergl,10570.0,24
+2005,Laim,9984.0,25
+2004,Stadt München,217948.0,00
+2004,Altstadt - Lehel,2985.0,01
+2004,Ludwigsvorstadt - Isarvorstadt,5140.0,02
+2004,Maxvorstadt,5467.0,03
+2004,Schwabing - West,9291.0,04
+2004,Au - Haidhausen,7610.0,05
+2004,Sendling,5019.0,06
+2004,Sendling - Westpark,9107.0,07
+2004,Schwanthalerhöhe,3066.0,08
+2004,Neuhausen - Nymphenburg,14100.0,09
+2004,Moosach,7927.0,10
+2004,Milbertshofen - Am Hart,9687.0,11
+2004,Schwabing - Freimann,8684.0,12
+2004,Bogenhausen,12910.0,13
+2004,Berg am Laim,6646.0,14
+2004,Trudering - Riem,7357.0,15
+2004,Ramersdorf - Perlach,17056.0,16
+2004,Obergiesing - Fasangarten,7495.0,17
+2004,Untergiesing - Harlaching,9392.0,18
+2004,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,16444.0,19
+2004,Hadern,8771.0,20
+2004,Pasing - Obermenzing,11186.0,21
+2004,Aubing - Lochhausen - Langwied,7360.0,22
+2004,Allach - Untermenzing,5275.0,23
+2004,Feldmoching - Hasenbergl,10193.0,24
+2004,Laim,9780.0,25
+2003,Stadt München,211238.0,00
+2003,Altstadt - Lehel,2860.0,01
+2003,Ludwigsvorstadt - Isarvorstadt,5097.0,02
+2003,Maxvorstadt,5400.0,03
+2003,Schwabing - West,8933.0,04
+2003,Au - Haidhausen,7540.0,05
+2003,Sendling,4923.0,06
+2003,Sendling - Westpark,8868.0,07
+2003,Schwanthalerhöhe,3041.0,08
+2003,Neuhausen - Nymphenburg,13812.0,09
+2003,Moosach,7619.0,10
+2003,Milbertshofen - Am Hart,9410.0,11
+2003,Schwabing - Freimann,8453.0,12
+2003,Bogenhausen,12437.0,13
+2003,Berg am Laim,6456.0,14
+2003,Trudering - Riem,6989.0,15
+2003,Ramersdorf - Perlach,16319.0,16
+2003,Obergiesing - Fasangarten,7391.0,17
+2003,Untergiesing - Harlaching,9195.0,18
+2003,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,15805.0,19
+2003,Hadern,8329.0,20
+2003,Pasing - Obermenzing,10832.0,21
+2003,Aubing - Lochhausen - Langwied,7037.0,22
+2003,Allach - Untermenzing,5068.0,23
+2003,Feldmoching - Hasenbergl,9819.0,24
+2003,Laim,9605.0,25
+2002,Stadt München,206125.0,00
+2002,Altstadt - Lehel,2839.0,01
+2002,Ludwigsvorstadt - Isarvorstadt,5061.0,02
+2002,Maxvorstadt,5377.0,03
+2002,Schwabing - West,8848.0,04
+2002,Au - Haidhausen,7476.0,05
+2002,Sendling,4874.0,06
+2002,Sendling - Westpark,8714.0,07
+2002,Schwanthalerhöhe,2984.0,08
+2002,Neuhausen - Nymphenburg,13632.0,09
+2002,Moosach,7373.0,10
+2002,Milbertshofen - Am Hart,9128.0,11
+2002,Schwabing - Freimann,8327.0,12
+2002,Bogenhausen,11959.0,13
+2002,Berg am Laim,6344.0,14
+2002,Trudering - Riem,6699.0,15
+2002,Ramersdorf - Perlach,15675.0,16
+2002,Obergiesing - Fasangarten,7299.0,17
+2002,Untergiesing - Harlaching,9047.0,18
+2002,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,15332.0,19
+2002,Hadern,8047.0,20
+2002,Pasing - Obermenzing,10457.0,21
+2002,Aubing - Lochhausen - Langwied,6715.0,22
+2002,Allach - Untermenzing,4906.0,23
+2002,Feldmoching - Hasenbergl,9546.0,24
+2002,Laim,9466.0,25
+2001,Stadt München,202231.0,00
+2001,Altstadt - Lehel,2837.0,01
+2001,Ludwigsvorstadt - Isarvorstadt,5014.0,02
+2001,Maxvorstadt,5437.0,03
+2001,Schwabing - West,8819.0,04
+2001,Au - Haidhausen,7468.0,05
+2001,Sendling,4775.0,06
+2001,Sendling - Westpark,8630.0,07
+2001,Schwanthalerhöhe,2926.0,08
+2001,Neuhausen - Nymphenburg,13575.0,09
+2001,Moosach,7211.0,10
+2001,Milbertshofen - Am Hart,8852.0,11
+2001,Schwabing - Freimann,8132.0,12
+2001,Bogenhausen,11578.0,13
+2001,Berg am Laim,6275.0,14
+2001,Trudering - Riem,6434.0,15
+2001,Ramersdorf - Perlach,15154.0,16
+2001,Obergiesing - Fasangarten,7257.0,17
+2001,Untergiesing - Harlaching,8979.0,18
+2001,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,14949.0,19
+2001,Hadern,7778.0,20
+2001,Pasing - Obermenzing,10217.0,21
+2001,Aubing - Lochhausen - Langwied,6443.0,22
+2001,Allach - Untermenzing,4758.0,23
+2001,Feldmoching - Hasenbergl,9290.0,24
+2001,Laim,9443.0,25
+2000,Stadt München,198392.0,00
+2000,Altstadt - Lehel,2783.0,01
+2000,Ludwigsvorstadt - Isarvorstadt,4972.0,02
+2000,Maxvorstadt,5466.0,03
+2000,Schwabing - West,8766.0,04
+2000,Au - Haidhausen,7493.0,05
+2000,Sendling,4723.0,06
+2000,Sendling - Westpark,8517.0,07
+2000,Schwanthalerhöhe,2888.0,08
+2000,Neuhausen - Nymphenburg,13607.0,09
+2000,Moosach,7019.0,10
+2000,Milbertshofen - Am Hart,8575.0,11
+2000,Schwabing - Freimann,8005.0,12
+2000,Bogenhausen,11342.0,13
+2000,Berg am Laim,6202.0,14
+2000,Trudering - Riem,6145.0,15
+2000,Ramersdorf - Perlach,14570.0,16
+2000,Obergiesing - Fasangarten,7215.0,17
+2000,Untergiesing - Harlaching,8912.0,18
+2000,Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln,14547.0,19
+2000,Hadern,7486.0,20
+2000,Pasing - Obermenzing,9990.0,21
+2000,Aubing - Lochhausen - Langwied,6128.0,22
+2000,Allach - Untermenzing,4662.0,23
+2000,Feldmoching - Hasenbergl,8962.0,24
+2000,Laim,9417.0,25
